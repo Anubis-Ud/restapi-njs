@@ -1,0 +1,12 @@
+{
+  "name": "restapi-njs",
+  "version": "1.0.0",
+  "description": "GIT_AUTHOR_DATE=\"2019-04-25T12:00:00\" GIT_COMMITTER_DATE=\"2019-04-25T12:00:00\" git commit -m \"Commit in the past\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
